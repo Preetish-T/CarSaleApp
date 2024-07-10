@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car id="1">
+        <make>Toyota</make>
+        <model>Camry</model>
+        <price>24000</price>
+        <year>2023</year>
+    </car>
+    <car id="2">
+        <make>Honda</make>
+        <model>Accord</model>
+        <price>26000</price>
+        <year>2023</year>
+    </car>
+    <car id="3">
+        <make>Ford</make>
+        <model>Mustang</model>
+        <price>28000</price>
+        <year>2023</year>
+    </car>
+    <car id="4">
+        <make>Chevrolet</make>
+        <model>Impala</model>
+        <price>25000</price>
+        <year>2022</year>
+    </car>
+    <car id="5">
+        <make>Mazda</make>
+        <model>6</model>
+        <price>23000</price>
+        <year>2023</year>
+    </car>
+    <car id="6">
+        <make>Toyota</make>
+        <model>Camry</model>
+        <price>24000</price>
+        <year>2023</year>
+    </car>
+    <car id="7">
+        <make>Honda</make>
+        <model>Accord</model>
+        <price>26000</price>
+        <year>2023</year>
+    </car>
+    <car id="8">
+        <make>Ford</make>
+        <model>Mustang</model>
+        <price>28000</price>
+        <year>2023</year>
+    </car>
+    <car id="9">
+        <make>Chevrolet</make>
+        <model>Impala</model>
+        <price>25000</price>
+        <year>2022</year>
+    </car>
+    <car id="10">
+        <make>Mazda</make>
+        <model>6</model>
+        <price>23000</price>
+        <year>2023</year>
+    </car>
+    <car id="11">
+        <make>Toyota</make>
+        <model>Camry</model>
+        <price>25000</price>
+        <year>2023</year>
+    </car>
+    <car id="12">
+        <make>Honda</make>
+        <model>Accord</model>
+        <price>25000</price>
+        <year>2023</year>
+    </car>
+    <car id="13">
+        <make>Ford</make>
+        <model>Mustang</model>
+        <price>25000</price>
+        <year>2023</year>
+    </car>
+    <car id="14">
+        <make>Chevrolet</make>
+        <model>Impala</model>
+        <price>25000</price>
+        <year>2022</year>
+    </car>
+    <car id="15">
+        <make>Mazda</make>
+        <model>6</model>
+        <price>25000</price>
+        <year>2023</year>
+    </car>
+</cars>
